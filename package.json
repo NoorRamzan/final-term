@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
@@ -20,6 +21,8 @@
     "node": "^22.10.0",
     "nodemon": "^3.1.7"
 =======
+=======
+>>>>>>> f8177998b4d51b2e5b5fdd62dc5b908d1a4ef4a2
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -59,6 +62,9 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17"
+<<<<<<< HEAD
+>>>>>>> f8177998b4d51b2e5b5fdd62dc5b908d1a4ef4a2
+=======
 >>>>>>> f8177998b4d51b2e5b5fdd62dc5b908d1a4ef4a2
   }
 }
